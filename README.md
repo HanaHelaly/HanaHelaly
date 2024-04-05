@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HanaHelaly
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning AI and machine learning.
-- 💞️ I’m looking to collaborate on innovative projects in the realm of data science and AI.
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning AI and machine learning
+- 💞️ I’m looking to collaborate on innovative projects in the realm of data science and AI
 - 📫 How to reach me hanahelaly99@gmail.com
 
 <!---
